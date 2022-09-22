@@ -1,2 +1,9 @@
-# Minha Primeira Landing Pages
- Primeira pagina que eu criei durante o curso de html e css.
+# Minha Primeira Landing Page
+ criada durante os modulos de html e css.
+ 
+## Foram Usados:
+ HTML
+ CSS
+ Editor VS CODE
+ 
+
