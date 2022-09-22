@@ -2,8 +2,8 @@
  criada durante os modulos de html e css.
  
 ## Foram Usados:
- HTML
- CSS
+ HTML <br>
+ CSS <br>
  Editor VS CODE
  
 
