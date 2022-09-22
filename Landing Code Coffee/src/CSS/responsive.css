@@ -1,0 +1,33 @@
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media(max-width: 425px) {
+    
+    html{
+        font-size: 80%;
+    }
+
+    .cabecalho .logo{
+        display: block;
+        margin: 0 auto; 
+    }  
+  
+    .cabecalho nav{
+        position: static;
+        text-align: center;
+        width: 100%;
+        
+    }
+    .cabecalho nav ul li{
+        display: block;
+    }
+    .cabecalho nav ul li a{
+        width: 100%;
+        display: block;
+        
+    }
+
+}
