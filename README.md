@@ -1,7 +1,7 @@
 # Minha Primeira Landing Page
  criada durante os modulos de html e css.
  
-##Foram Usados:
+## Foram Usados:
  HTML
  CSS
  Editor VS CODE
